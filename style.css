@@ -1,0 +1,129 @@
+
+
+
+    *{
+       
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 20px;
+        
+    
+        
+
+    }
+
+.Header {
+
+    background-color: #4f9da6;
+    height: 80px;
+    padding:20px;
+    margin-bottom:5px;
+    text-align: center;
+    font: bold;
+   
+}
+    
+
+    
+
+
+
+.Nav {
+
+    background-color: #4f9da6;
+    height: 80px;
+    padding:20px;
+    margin-bottom: 20px;
+    text-align: center;
+    font: bold
+}
+
+
+    
+
+    
+
+
+.Footer{
+    clear: both;
+
+    background-color: #4f9da6;
+    height: 80px;
+    padding:20px;
+    
+    text-align: center;
+    font: bold;
+    margin-bottom: 20px;
+    margin-top: 15px
+}
+
+    .Section {
+
+        background-color: #4f9da6;
+        height: 300px;
+        padding:20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font: bold;
+        width:50%;
+        float: left;
+        margin-top: 15px
+    }    
+    
+
+    
+    .Aside {
+
+        background-color: #4f9da6;
+        height: 300px;
+        padding:20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font: bold;
+        width:35.669%;
+        float: right;
+       
+        margin-top: 15px
+
+
+    }
+
+
+    .Article {
+
+        background-color: #facf5a;
+        height: 200px;
+        padding:20px;
+        text-align: center;
+        font: bold;
+        width:90%;
+      
+        
+
+    }
+
+    .h1 {
+
+        background-color:#ff5959;
+        height: 20px;
+        padding:20px;
+        text-align: center;
+        font: bold;
+        width:90%;
+        
+       
+
+    }
+
+    .p {
+
+        background-color:#ff5959;
+        height: 20px;
+        padding:20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font: bold;
+        width:90%;
+        
+
+    }
